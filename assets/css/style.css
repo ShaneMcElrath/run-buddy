@@ -129,7 +129,7 @@ section {
 }
 /*end hero*/
 
-/*WWD, WYD, MTT sections*/
+/*section titles*/
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -146,7 +146,7 @@ section {
 .secondary-border {
     border-color: #39a6b2;
 }
-/*end WWD, WYD, MTT sections*/
+/*end section titles*/
 
 /*intro*/
 .intro {
