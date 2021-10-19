@@ -301,11 +301,7 @@ section {
 }
 
 .contact-info div {
-    display: inline-block;
-    width: 410;
-    vertical-align: top;
-    text-align: left;
-    margin: 30px 0 0 60px;
+    color: white;
 }
 
 .contact-info h3 {
